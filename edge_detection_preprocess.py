@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UonjDWusJ7MQefW-RZCtaEqTQMD1f10Q
 """
 
+import utils.session
 from pathlib import Path
 import pandas as pd
 import numpy as np
